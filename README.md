@@ -4,11 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 AI / ML Enthusiast
 ------------------
 
-Grad Student at the University of Waterloo pursuing Electrical and Computer Engineering with a specialization in Artificial Intelligence and Machine Learning As a passionate machine-learning enthusiast with exceptional programming expertise and analytical thinking abilities, I am seeking to transition to a career in deep learning and Computer Vision, with a commitment to ongoing education and professional development.
+Grad Student at the University of Waterloo pursuing Electrical and Computer Engineering with a specialization in Artificial Intelligence and Machine Learning As a passionate machine-learning enthusiast with exceptional programming expertise and analytical thinking abilities, I am seeking to transition to a career in Deep learning, Computer Vision and NLP with a commitment to ongoing education and professional development.
 
 * 🌍  I'm based in Waterloo
 * ✉️  You can contact me at [grajukan@uwaterloo.ca](mailto:grajukan@uwaterloo.ca)
-* 🧠  I'm learning Text Analytics, Deep Learning and Computer Vision
+* 🧠  I'm learning NLP, Deep Learning and Computer Vision
 
 ### Skills
 
